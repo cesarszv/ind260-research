@@ -1,25 +1,12 @@
 # Instrucciones para trabajar en esta investigación
 
-Estas instrucciones se aplican a `projects/research/`. Ayuda a desarrollar y documentar una investigación académica; 
-
 ## Antes de intervenir
 
 1. Lee el [plan global](../../documentation/plan-global-asignatura.md), la [forma de evaluar](../../documentation/forma-de-evaluar.md) y la [presentación de la docente](../../documentation/presentacion-de-la-docente.md).
-2. Revisa el pasaje de clase o la fuente bibliográfica que sustente la parte que vas a trabajar. Un índice o un resumen no sustituye esa lectura.
+2. Lee y analiza todo documentation/
 
-## Consideraciones
 
-- Para afirmaciones técnicas, prioriza publicaciones originales y documentación institucional verificable. 
-
-- Vincula cada afirmación importante con su fuente y localizador: sección, página del PDF, fecha de clase o pasaje. Declara si solo se consultó una parte de un documento.
-
-- Mantén coherentes problema, pregunta, objetivos, variables, instrumento y análisis. Usa los mismos términos a lo largo del perfil; no confundas actividades con objetivos ni correlación con causalidad.
-
-- Conserva datos originales y documenta limpieza, exclusiones, instrumentos, condiciones y límites. No ajustes resultados para que coincidan con lo esperado.
-
-## Al editar
-
-- Antes de cerrar, comprueba citas y enlaces relativos, coherencia entre objetivos y evidencia, distinción entre ejemplos y decisiones, protección de datos y preservación de cambios ajenos.
+---
 
 ## Index
 
